@@ -4,7 +4,7 @@ To View The Demo : [Click Here](https://snehap02.github.io/museum-of-candy/).
 
 ![Design](images/screenshot.JPG)
 
-## :purple_circle: Bootstrap CDN links to include in your .html and .js file :- 
+## :purple_circle: Bootstrap CDN links to include in your .html file :- 
 
 1. Place the &lt;link&gt; tag in the <head> for our CSS
 *  &lt;link href="https://cdn.jsdelivr.net/npm/bootstrap@5.2.1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-iYQeCzEYFbKjA/T2uDLTpkwGzCiq6soy8tYaI1GyVh/UjpbCx/TYkiZhlZB6+fzT" crossorigin="anonymous" &gt;
